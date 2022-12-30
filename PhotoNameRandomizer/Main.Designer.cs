@@ -161,8 +161,7 @@
             this.txtPrefix.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
             this.txtPrefix.CustomButton.UseSelectable = true;
             this.txtPrefix.CustomButton.Visible = false;
-            this.txtPrefix.Lines = new string[] {
-        "PreWedding"};
+            this.txtPrefix.Lines = new string[0];
             this.txtPrefix.Location = new System.Drawing.Point(23, 92);
             this.txtPrefix.MaxLength = 32767;
             this.txtPrefix.Name = "txtPrefix";
@@ -175,7 +174,6 @@
             this.txtPrefix.ShortcutsEnabled = true;
             this.txtPrefix.Size = new System.Drawing.Size(697, 23);
             this.txtPrefix.TabIndex = 2;
-            this.txtPrefix.Text = "PreWedding";
             this.txtPrefix.UseSelectable = true;
             this.txtPrefix.WaterMark = "Photo Prefix";
             this.txtPrefix.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
