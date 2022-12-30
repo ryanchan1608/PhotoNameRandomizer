@@ -1,5 +1,5 @@
 # PhotoNameRandomizer
-Some old device not support to random slideshow photos, we can now change photo name to similar random slideshow feature.
+Some old device not support to random slideshow photos, we can now change photo name to simulate features.
 
 ![image](https://user-images.githubusercontent.com/41282462/210051984-71f7b6e4-2740-48a2-8e41-45db505681e1.png)
 
