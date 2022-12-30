@@ -13,4 +13,4 @@ Images show in picture box
 
 ![image](https://user-images.githubusercontent.com/41282462/210052153-412b485c-ce9b-4fc9-ae76-b9385616e4a2.png)
 
-After Randoming, new folder with randomed images will be created
+After Randoming, new folder with randomized images will be created
